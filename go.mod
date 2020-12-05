@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-widget-starter
+module github.com/sethmchris/wowchemy-widget-timeline
 
 go 1.15
